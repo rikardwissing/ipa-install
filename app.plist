@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/rikardwissing/ipa-install/master/Icon%402x.png</string>
+					<string>https://rikardwissing.github.io/ipa-install/Icon%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/rikardwissing/ipa-install/master/Icon.png</string>
+					<string>https://rikardwissing.github.io/ipa-install/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
